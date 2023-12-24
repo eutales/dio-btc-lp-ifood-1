@@ -1,7 +1,22 @@
 # dio-btc-lp-ifood-1
 Primeiro desafio de projeto do Bootcamp Lógica de Programação - Ifood. #JavaScript  
-Instruções para entrega
-# 1️⃣ Desafio Classificador de nível de Herói
+
+## Como usar
+1. Clone o repositorio para a pasta que preferir, usando o seguinte comando:
+
+```sh
+git clone https://github.com/eutales/dio-btc-lp-ifood-1.git
+```
+
+2. Acesse a pasta do projeto com o comando:
+```sh
+cd dio-btc-lp-ifood-1
+```
+
+3. Execute o programa com o comando `npm run app` ou com o comando `node src/index.js`.
+
+## Instruções para entrega
+1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
 
